@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="en-IN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>About — Vehicle Info</title>
+<meta name="description" content="About Vehicle Info, a student-built static reference for India-market cars and motorcycles, and the editorial rules behind its specification files.">
+<link rel="canonical" href="https://arijitmondal-fs-dev.github.io/vehicle-info/about.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Vehicle Info">
+<meta property="og:title" content="About — Vehicle Info">
+<meta property="og:description" content="About Vehicle Info, a student-built static reference for India-market cars and motorcycles, and the editorial rules behind its specification files.">
+<meta property="og:url" content="https://arijitmondal-fs-dev.github.io/vehicle-info/about.html">
+<meta property="og:image" content="https://arijitmondal-fs-dev.github.io/vehicle-info/assets/img/brand/og-cover.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="theme-color" content="#e7e8e2">
+<link rel="icon" href="assets/img/brand/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/img/brand/apple-touch-icon.png">
+<link rel="preload" href="assets/fonts/overpass-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="assets/fonts/overpass-mono-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/tokens.css">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/pages.css">
+<link rel="stylesheet" href="assets/css/site.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap site-header__inner">
+    <a class="brand" href="index.html">
+      <span class="brand__mark">VI</span>
+      <span>
+        <span class="brand__name">Vehicle Info</span>
+        <span class="brand__sub">India reference files</span>
+      </span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <ul>
+          <li><a href="cars/">Cars</a></li>
+          <li><a href="bikes/">Motorcycles</a></li>
+          <li><a href="compare/">Compare</a></li>
+          <li><a href="about.html" aria-current="page">About</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<header class="page-head">
+  <div class="wrap">
+    <p class="eyebrow">Project / About</p>
+    <h1 class="page-head__title">A reference file, not a buyer's guide.</h1>
+    <p class="page-head__lead">Vehicle Info is a student-built static website about eight India-market cars and motorcycles. It is designed to show specification research, editorial judgement and front-end craft.</p>
+    <div class="page-head__meta"><span>Eight vehicles</span><span>Two comparisons</span><span>No scripts</span></div>
+  </div>
+</header>
+<section class="about">
+  <div class="wrap about-grid">
+    <aside class="about-grid__aside">
+      <p class="eyebrow">01 / Scope</p>
+      <h2>What this is.</h2>
+      <p>Four cars and four motorcycles, chosen across price bands and body styles. The common thread is that each one has a clear place in the Indian market and enough published data to support a proper file.</p>
+    </aside>
+    <div class="prose">
+      <section>
+        <h2>Why these eight</h2>
+        <p>The cars run from the Swift, a compact value hatchback, to the City, a larger sedan with a strong-hybrid option. The Creta and XUV400 represent the two directions of the compact SUV market: petrol and electric.</p>
+        <p>The motorcycles run from the Splendor Plus, the default commuter, to the Himalayan 450, a 196 kg adventure bike. The Classic 350 and 390 Duke cover the retro and naked-sport middle.</p>
+      </section>
+      <section>
+        <h2>How the files are made</h2>
+        <p>Each file begins with the manufacturer's India website, brochure, price list or owner's manual. Where a manufacturer publishes two values, both are recorded. Where a value is missing, the file says so instead of quoting an unverified number.</p>
+        <p>The result is a snapshot, not a live database. Prices are ex-showroom Delhi as of November 2026. They exclude insurance, registration, road tax and offers.</p>
+      </section>
+      <section>
+        <h2>What is not here</h2>
+        <ul>
+          <li>No road tests, lap times or subjective ride verdicts.</li>
+          <li>No on-road prices, insurance quotes or resale values.</li>
+          <li>No recommendations about which vehicle to buy.</li>
+          <li>No current NCAP rating where the agency has not tested the car. Previous-generation results are labelled as context only.</li>
+        </ul>
+      </section>
+      <section>
+        <h2>Technical notes</h2>
+        <p>The published site is plain HTML and CSS, generated from a local content build. There is no JavaScript, no analytics and no third-party embed. Fonts are self-hosted: Overpass and Overpass Mono, both under the SIL Open Font License. Photographs are Creative Commons or public-domain images from Wikimedia Commons, cropped and resized for the web; each one is credited on the page where it appears.</p>
+        <p>The layout uses CSS grid, custom properties and fluid type. It respects reduced-motion preferences and keeps a visible keyboard focus style. All specifications are repeated in tables rather than being locked inside images.</p>
+      </section>
+      <section>
+        <h2>Colophon</h2>
+        <p>Type: Overpass and Overpass Mono. Palette: paper, ink, signal red and safety yellow. Diagrams: original SVG schematics drawn for this project. Photographs: credited individually. Built as a static GitHub Pages site; the publishable output lives in <span class="mono">site/</span>.</p>
+      </section>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="site-footer__grid">
+      <div>
+        <div class="site-footer__brand">
+          <span class="brand__mark" aria-hidden="true">VI</span>
+          <strong>Vehicle Info</strong>
+        </div>
+        <p class="site-footer__note">An independent student reference for India-market cars and motorcycles. Figures are manufacturer-published unless marked otherwise. Confirm current specifications and prices with a dealer before purchase.</p>
+      </div>
+      <nav aria-label="Footer">
+        <ul class="site-footer__nav">
+          <li><a href="cars/">Cars</a></li>
+          <li><a href="bikes/">Motorcycles</a></li>
+          <li><a href="compare/">Compare</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="credits.html">Credits</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="site-footer__fine">
+      <span>© 2026 Vehicle Info</span>
+      <span>Set in Overpass &amp; Overpass Mono</span>
+      <span>No scripts · No trackers</span>
+    </div>
+  </div>
+</footer>
+</body>
+</html>

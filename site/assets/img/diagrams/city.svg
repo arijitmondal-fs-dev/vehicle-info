@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-labelledby="title-city desc-city">
+  <title id="title-city">Honda City side elevation</title>
+  <desc id="desc-city">Line drawing of the Honda City with published dimensions: 4,594 mm long, 1,489 mm high and 2,600 mm wheelbase. Honda India does not publish ground clearance.</desc>
+  <defs>
+    <marker id="ar" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L8 4 L0 8 Z" class="diagram-dim-fill"/>
+    </marker>
+  </defs>
+  <text x="46" y="34" class="diagram-label">C02 / SIDE ELEVATION</text>
+  <text x="46" y="56" class="diagram-value" style="font-size:16px">Honda City</text>
+  <line x1="40" y1="500" x2="960" y2="500" class="diagram-dim" stroke-dasharray="2 8" opacity="0.55"/>
+  <g>
+    <g>
+    <circle cx="270" cy="445" r="55" class="diagram-wheel"/>
+    <circle cx="270" cy="445" r="34" class="diagram-wheel" stroke-width="1.4"/>
+    <circle cx="270" cy="445" r="11" class="diagram-fill"/>
+    <line x1="270.0" y1="431.8" x2="270.0" y2="413.6" class="diagram-line" stroke-width="1.3"/>
+    <line x1="282.6" y1="440.9" x2="299.8" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+    <line x1="277.8" y1="455.7" x2="288.4" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="262.2" y1="455.7" x2="251.6" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="257.4" y1="440.9" x2="240.2" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+  </g>
+    <g>
+    <circle cx="723" cy="445" r="55" class="diagram-wheel"/>
+    <circle cx="723" cy="445" r="34" class="diagram-wheel" stroke-width="1.4"/>
+    <circle cx="723" cy="445" r="11" class="diagram-fill"/>
+    <line x1="723.0" y1="431.8" x2="723.0" y2="413.6" class="diagram-line" stroke-width="1.3"/>
+    <line x1="735.6" y1="440.9" x2="752.8" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+    <line x1="730.8" y1="455.7" x2="741.4" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="715.2" y1="455.7" x2="704.6" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="710.4" y1="440.9" x2="693.2" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+  </g>
+    <path d="M86 470 L86 416 Q86 394 112 388 L228 372 L304 358 L386 242 Q392 238 404 238 L590 236 Q610 236 622 250 L702 334 L824 342 Q854 344 864 358 Q876 370 876 402 L876 470 L785.0 470 C785.0 422.1 757.1 383 723 383 C688.9 383 661.0 422.1 661.0 470 L332.0 470 L332.0 470 C332.0 422.1 304.1 383 270 383 C235.9 383 208.0 422.1 208.0 470 Z" class="diagram-fill"/>
+    <path d="M312 352 L392 248 L500 246 L500 352 Z" class="diagram-fill"/>
+    <path d="M512 246 L590 244 Q604 244 614 254 L666 340 L666 352 L512 352 Z" class="diagram-fill"/>
+    <path d="M500 246 L500 455" class="diagram-line" stroke-width="1.4"/>
+    <path d="M652 352 L652 452" class="diagram-line" stroke-width="1.2"/>
+    <path d="M120 404 L840 404" class="diagram-line" stroke-width="1"/>
+    <path d="M330 446 L690 446" class="diagram-line" stroke-width="1"/>
+    <path d="M94 402 L120 388 L138 388" class="diagram-line" stroke-width="1.4"/>
+    <path d="M468 364 L488 364 M604 366 L624 366" class="diagram-line" stroke-width="3.4"/>
+    <path d="M846 362 L868 368 L868 384 L846 378 Z" class="diagram-fill"/>
+    <path d="M94 410 L120 396 L126 408 L100 420 Z" class="diagram-fill"/>
+    <path d="M86 434 Q112 424 140 424" class="diagram-line" stroke-width="1.3"/>
+    <path d="M710 350 L840 356" class="diagram-line" stroke-width="1.1"/>
+  </g>
+  <g>
+    <line x1="62" y1="500" x2="62" y2="242" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="55" y1="500" x2="69" y2="500" class="diagram-dim"/>
+    <line x1="55" y1="242" x2="69" y2="242" class="diagram-dim"/>
+    <text x="48" y="371" text-anchor="end" class="diagram-value" transform="rotate(-90 48 371)">1,489 mm · HEIGHT</text>
+  </g>
+  <g>
+    <line x1="86" y1="82" x2="876" y2="82" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="86" y1="75" x2="86" y2="89" class="diagram-dim"/>
+    <line x1="876" y1="75" x2="876" y2="89" class="diagram-dim"/>
+    <text x="481" y="72" text-anchor="middle" class="diagram-value">4,594 mm</text>
+    <text x="481" y="100" text-anchor="middle" class="diagram-label">LENGTH</text>
+  </g>
+  <g>
+    <line x1="270" y1="566" x2="723" y2="566" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="270" y1="559" x2="270" y2="573" class="diagram-dim"/>
+    <line x1="723" y1="559" x2="723" y2="573" class="diagram-dim"/>
+    <text x="496.5" y="586" text-anchor="middle" class="diagram-value">2,600 mm</text>
+    <text x="496.5" y="604" text-anchor="middle" class="diagram-label">WHEELBASE</text>
+  </g>
+  <g>
+    <rect x="690" y="110" width="230" height="54" fill="var(--paper-raised)" stroke="var(--rule)" stroke-width="1"/>
+    <text x="702" y="134" class="diagram-label">GROUND CLEARANCE</text>
+    <text x="702" y="152" class="diagram-label">NOT PUBLISHED</text>
+  </g>
+</svg>

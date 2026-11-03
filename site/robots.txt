@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://arijitmondal-fs-dev.github.io/vehicle-info/sitemap.xml

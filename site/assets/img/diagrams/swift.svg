@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-labelledby="title-swift desc-swift">
+  <title id="title-swift">Maruti Suzuki Swift side elevation</title>
+  <desc id="desc-swift">Line drawing of the Swift with published dimensions: 3,860 mm long, 1,520 mm high, 2,450 mm wheelbase and 163 mm ground clearance. The hatchback profile is drawn to those proportions.</desc>
+  <defs>
+    <marker id="ar" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L8 4 L0 8 Z" class="diagram-dim-fill"/>
+    </marker>
+  </defs>
+  <text x="46" y="34" class="diagram-label">C01 / SIDE ELEVATION</text>
+  <text x="46" y="56" class="diagram-value" style="font-size:16px">Maruti Suzuki Swift</text>
+  <line x1="40" y1="500" x2="960" y2="500" class="diagram-dim" stroke-dasharray="2 8" opacity="0.55"/>
+  <g>
+    <g>
+    <circle cx="280" cy="445" r="55" class="diagram-wheel"/>
+    <circle cx="280" cy="445" r="34" class="diagram-wheel" stroke-width="1.4"/>
+    <circle cx="280" cy="445" r="11" class="diagram-fill"/>
+    <line x1="280.0" y1="431.8" x2="280.0" y2="413.6" class="diagram-line" stroke-width="1.3"/>
+    <line x1="292.6" y1="440.9" x2="309.8" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+    <line x1="287.8" y1="455.7" x2="298.4" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="272.2" y1="455.7" x2="261.6" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="267.4" y1="440.9" x2="250.2" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+  </g>
+    <g>
+    <circle cx="718" cy="445" r="55" class="diagram-wheel"/>
+    <circle cx="718" cy="445" r="34" class="diagram-wheel" stroke-width="1.4"/>
+    <circle cx="718" cy="445" r="11" class="diagram-fill"/>
+    <line x1="718.0" y1="431.8" x2="718.0" y2="413.6" class="diagram-line" stroke-width="1.3"/>
+    <line x1="730.6" y1="440.9" x2="747.8" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+    <line x1="725.8" y1="455.7" x2="736.4" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="710.2" y1="455.7" x2="699.6" y2="470.4" class="diagram-line" stroke-width="1.3"/>
+    <line x1="705.4" y1="440.9" x2="688.2" y2="435.3" class="diagram-line" stroke-width="1.3"/>
+  </g>
+    <path d="M150 470 L150 406 Q150 383 178 377 L252 361 L302 351 L386 232 Q392 228 404 228 L598 226 Q619 226 633 243 L700 330 Q718 346 744 360 L792 382 Q826 392 834 414 Q840 424 840 440 L840 470 L780.0 470 C780.0 422.1 752.1 383 718 383 C683.9 383 656.0 422.1 656.0 470 L342.0 470 L342.0 470 C342.0 422.1 314.1 383 280 383 C245.9 383 218.0 422.1 218.0 470 Z" class="diagram-fill"/>
+    <path d="M312 345 L390 238 L500 236 L500 345 Z" class="diagram-fill"/>
+    <path d="M512 236 L598 234 Q614 234 624 248 L664 300 L664 345 L512 345 Z" class="diagram-fill"/>
+    <path d="M500 236 L500 455" class="diagram-line" stroke-width="1.4"/>
+    <path d="M650 345 L650 452" class="diagram-line" stroke-width="1.2"/>
+    <path d="M190 398 L770 398" class="diagram-line" stroke-width="1"/>
+    <path d="M330 448 L690 448" class="diagram-line" stroke-width="1"/>
+    <path d="M158 400 L184 386 L202 386" class="diagram-line" stroke-width="1.4"/>
+    <path d="M468 358 L488 358 M604 360 L624 360" class="diagram-line" stroke-width="3.4"/>
+    <path d="M796 392 L822 398 L822 414 L796 408 Z" class="diagram-fill"/>
+    <path d="M158 404 L184 388 L190 400 L166 416 Z" class="diagram-fill"/>
+    <path d="M150 430 Q176 420 200 420" class="diagram-line" stroke-width="1.3"/>
+  </g>
+  <g>
+    <line x1="62" y1="500" x2="62" y2="228" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="55" y1="500" x2="69" y2="500" class="diagram-dim"/>
+    <line x1="55" y1="228" x2="69" y2="228" class="diagram-dim"/>
+    <text x="48" y="364" text-anchor="end" class="diagram-value" transform="rotate(-90 48 364)">1,520 mm · HEIGHT</text>
+  </g>
+  <g>
+    <line x1="150" y1="82" x2="840" y2="82" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="150" y1="75" x2="150" y2="89" class="diagram-dim"/>
+    <line x1="840" y1="75" x2="840" y2="89" class="diagram-dim"/>
+    <text x="495" y="72" text-anchor="middle" class="diagram-value">3,860 mm</text>
+    <text x="495" y="100" text-anchor="middle" class="diagram-label">LENGTH</text>
+  </g>
+  <g>
+    <line x1="280" y1="566" x2="718" y2="566" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="280" y1="559" x2="280" y2="573" class="diagram-dim"/>
+    <line x1="718" y1="559" x2="718" y2="573" class="diagram-dim"/>
+    <text x="499" y="586" text-anchor="middle" class="diagram-value">2,450 mm</text>
+    <text x="499" y="604" text-anchor="middle" class="diagram-label">WHEELBASE</text>
+  </g>
+  <g>
+    <line x1="540" y1="500" x2="540" y2="470" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="533" y1="470" x2="547" y2="470" class="diagram-dim"/>
+    <text x="550" y="517" class="diagram-value">163 mm · CLEARANCE</text>
+  </g>
+</svg>

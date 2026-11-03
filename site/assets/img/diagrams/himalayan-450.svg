@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 620" role="img" aria-labelledby="title-himalayan-450 desc-himalayan-450">
+  <title id="title-himalayan-450">Royal Enfield Himalayan 450 side elevation</title>
+  <desc id="desc-himalayan-450">Line drawing of the Himalayan 450 with published dimensions: 2,245 mm long, 1,510 mm wheelbase, 825 mm seat height and 230 mm ground clearance.</desc>
+  <defs>
+    <marker id="ar" viewBox="0 0 8 8" refX="4" refY="4" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0 L8 4 L0 8 Z" class="diagram-dim-fill"/>
+    </marker>
+  </defs>
+  <text x="46" y="34" class="diagram-label">M04 / SIDE ELEVATION</text>
+  <text x="46" y="56" class="diagram-value" style="font-size:16px">Royal Enfield Himalayan 450</text>
+  <line x1="40" y1="500" x2="960" y2="500" class="diagram-dim" stroke-dasharray="2 8" opacity="0.55"/>
+  <g>
+    <circle cx="270" cy="438" r="62" class="diagram-wheel"/>
+    <circle cx="270" cy="438" r="51" class="diagram-wheel" stroke-width="1.3"/>
+    <circle cx="270" cy="438" r="7" class="diagram-fill"/>
+    <line x1="283.0" y1="438.0" x2="326.0" y2="438.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="279.2" y1="447.2" x2="309.6" y2="477.6" class="diagram-line" stroke-width="1.2"/>
+    <line x1="270.0" y1="451.0" x2="270.0" y2="494.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="260.8" y1="447.2" x2="230.4" y2="477.6" class="diagram-line" stroke-width="1.2"/>
+    <line x1="257.0" y1="438.0" x2="214.0" y2="438.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="260.8" y1="428.8" x2="230.4" y2="398.4" class="diagram-line" stroke-width="1.2"/>
+    <line x1="270.0" y1="425.0" x2="270.0" y2="382.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="279.2" y1="428.8" x2="309.6" y2="398.4" class="diagram-line" stroke-width="1.2"/>
+  </g>
+  <g>
+    <circle cx="735" cy="428" r="72" class="diagram-wheel"/>
+    <circle cx="735" cy="428" r="59" class="diagram-wheel" stroke-width="1.3"/>
+    <circle cx="735" cy="428" r="7" class="diagram-fill"/>
+    <line x1="748.0" y1="428.0" x2="801.0" y2="428.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="744.2" y1="437.2" x2="781.7" y2="474.7" class="diagram-line" stroke-width="1.2"/>
+    <line x1="735.0" y1="441.0" x2="735.0" y2="494.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="725.8" y1="437.2" x2="688.3" y2="474.7" class="diagram-line" stroke-width="1.2"/>
+    <line x1="722.0" y1="428.0" x2="669.0" y2="428.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="725.8" y1="418.8" x2="688.3" y2="381.3" class="diagram-line" stroke-width="1.2"/>
+    <line x1="735.0" y1="415.0" x2="735.0" y2="362.0" class="diagram-line" stroke-width="1.2"/>
+    <line x1="744.2" y1="418.8" x2="781.7" y2="381.3" class="diagram-line" stroke-width="1.2"/>
+  </g>
+  <g>
+    <path d="M180 300 L270 298 L270 316 L192 320 Z" class="diagram-fill"/>
+    <path d="M280 312 L470 304 L486 330 L300 342 Z" class="diagram-fill"/>
+    <path d="M470 300 Q520 276 585 282 L625 306 L616 354 L540 366 L480 344 Z" class="diagram-fill"/>
+    <path d="M480 358 L596 358 L608 420 L576 456 L490 452 L470 414 Z" class="diagram-fill"/>
+    <path d="M646 278 L735 428 M664 276 L752 428" class="diagram-line"/>
+    <path d="M606 238 L686 238" class="diagram-line"/>
+    <path d="M680 238 L688 262" class="diagram-line"/>
+    <path d="M645 220 L700 214 L706 260 L650 268 Z" class="diagram-fill"/>
+    <path d="M672 268 L716 270 L718 302 L674 300 Z" class="diagram-fill"/>
+    <path d="M690 322 Q744 296 808 322" class="diagram-line" stroke-width="2"/>
+    <path d="M352 342 L400 425" class="diagram-line"/>
+    <path d="M560 436 L650 428 L662 444 L570 452 Z" class="diagram-fill"/>
+    <path d="M512 350 Q486 400 514 450" class="diagram-line" stroke-width="2"/>
+    <path d="M336 458 L318 500 M470 456 L488 500" class="diagram-line" stroke-width="2"/>
+    <path d="M254 296 L254 280 L330 280" class="diagram-line" stroke-width="2"/>
+    <path d="M380 304 L380 326 M400 304 L400 326 M420 304 L420 326" class="diagram-line" stroke-width="1.1"/>
+  </g>
+  <g>
+    <line x1="430" y1="304" x2="70" y2="304" class="diagram-dim" stroke-dasharray="4 5"/>
+    <line x1="62" y1="500" x2="62" y2="304" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="55" y1="304" x2="69" y2="304" class="diagram-dim"/>
+    <text x="48" y="402" text-anchor="end" class="diagram-value" transform="rotate(-90 48 402)">825 mm · SEAT</text>
+  </g>
+  <g>
+    <line x1="180" y1="82" x2="820" y2="82" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="180" y1="75" x2="180" y2="89" class="diagram-dim"/>
+    <line x1="820" y1="75" x2="820" y2="89" class="diagram-dim"/>
+    <text x="500" y="72" text-anchor="middle" class="diagram-value">2,245 mm</text>
+    <text x="500" y="100" text-anchor="middle" class="diagram-label">LENGTH</text>
+  </g>
+  <g>
+    <line x1="270" y1="566" x2="735" y2="566" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="270" y1="559" x2="270" y2="573" class="diagram-dim"/>
+    <line x1="735" y1="559" x2="735" y2="573" class="diagram-dim"/>
+    <text x="502.5" y="586" text-anchor="middle" class="diagram-value">1,510 mm</text>
+    <text x="502.5" y="604" text-anchor="middle" class="diagram-label">WHEELBASE</text>
+  </g>
+  <g>
+    <line x1="540" y1="500" x2="540" y2="452" class="diagram-dim" marker-start="url(#ar)" marker-end="url(#ar)"/>
+    <line x1="533" y1="452" x2="547" y2="452" class="diagram-dim"/>
+    <text x="550" y="517" class="diagram-value">230 mm · CLEARANCE</text>
+  </g>
+  
+</svg>
